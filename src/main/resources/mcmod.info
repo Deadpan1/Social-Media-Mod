@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kenxsocialmod",
+  "name": "Kenx Social Media Mod",
+  "description": "Example placeholder mod.",
+  "version": "1.0.0",
+  "mcversion": "1.17.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Deadpan", "EnvoGod"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
